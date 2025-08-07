@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# dotenv
+.env
+
+# Streamlit
+.streamlit/
+
+# VSCode or JetBrains config
+.vscode/
+.idea/
